@@ -1,0 +1,24 @@
+{
+  "model_type": "Autoencoder",
+  "model_version": "test-ae-v1",
+  "input_mode": "structured",
+  "input_dim": 85,
+  "latent_dim": 8,
+  "hidden_dims": [
+    64,
+    32
+  ],
+  "epochs": 10,
+  "batch_size": 8,
+  "learning_rate": 0.001,
+  "final_train_loss": 1.0044257640838623,
+  "training_samples": 20,
+  "validation_samples": 5,
+  "threshold": 1.1229649782180786,
+  "threshold_method": "percentile",
+  "threshold_percentile": 95.0,
+  "training_duration_seconds": 2.9439,
+  "dataset_version": "1.0",
+  "embedding_version": "1.0",
+  "created_at": "2026-10-04T14:47:25.535765+00:00"
+}

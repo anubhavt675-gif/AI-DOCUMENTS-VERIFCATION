@@ -1,0 +1,10 @@
+[
+  {
+    "block_number": 0,
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "block_hash": "c20445c1e9f8a9679c5edd239912f656324bd19b38475316249afc64b5a23c29",
+    "timestamp": "2026-10-01T17:56:01.991240+00:00",
+    "channel": "integritychannel",
+    "transactions": []
+  }
+]
